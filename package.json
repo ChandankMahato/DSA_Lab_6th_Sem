@@ -1,0 +1,19 @@
+{
+  "name": "lab1_test_demo",
+  "version": "1.0.0",
+  "description": "lab1_test_demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll --verbose --coverage --detectOpenHandles"
+  },
+  "keywords": [
+    "test",
+    "node.js",
+    "lab1"
+  ],
+  "author": "chandan kumar mahato",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.5.0"
+  }
+}
